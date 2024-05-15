@@ -1,5 +1,5 @@
 name: animated_responsive_layout
-description: "A new Flutter project."
+description: 'A new Flutter project.'
 publish_to: 'none'
 version: 0.1.0
 
@@ -17,3 +17,13 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/avatar_1.png
+    - assets/avatar_2.png
+    - assets/avatar_3.png
+    - assets/avatar_4.png
+    - assets/avatar_5.png
+    - assets/avatar_6.png
+    - assets/avatar_7.png
+    - assets/thumbnail_1.png
